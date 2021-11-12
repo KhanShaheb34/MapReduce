@@ -75,7 +75,7 @@ if current_word == word:
 To test it locally you can create a text file with ja khushi ta inside it and run:
 
 ```sh
-cat input.txt | mapper.py | sort -k1,1 | reducer.py
+cat input.txt | python mapper.py | sort -k1,1 | python reducer.py
 ```
 
 > Mood ashle pore shob explain korbo
