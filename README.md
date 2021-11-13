@@ -125,4 +125,4 @@ mapred streaming \
 Vai, dua kor, oju kore namaj pore ay, time lagbe ager step e onek... Allah rohom na korle fail korbe!
 
 ### Step 11: Output
-Allahr rohomot e kaj hoye gele output dekhar jonno: `hdfs dfs -cat otput/*`
+Allahr rohomot e kaj hoye gele output dekhar jonno: `hdfs dfs -cat output/*`
